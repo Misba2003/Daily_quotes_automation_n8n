@@ -10,7 +10,7 @@ The workflow fetches random quotes from an API, filters them based on conditions
 - Filters quotes based on conditions (e.g., length, tags)  
 -  Reformats quotes into `"Quote content" - Author`  
 -  Runs inside **n8n**, powered by **Docker**  
-- Ready to extend for email, Slack, or WhatsApp delivery  
+- Ready to extend for email or WhatsApp delivery  
 
 ---
 
